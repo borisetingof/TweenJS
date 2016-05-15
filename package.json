@@ -1,0 +1,13 @@
+{
+  "name": "tweenjs",
+  "version": "1.0.0",
+  "description": "Fork of TweenJS.",
+  "author": "Boris Etingof <boris.etingof@gmail.com.au>",
+  "license": "MIT",
+  "dependencies": {},
+  "main": "overrides/tweenjs-0.6.2.combined.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisetingof/TweenJS.git"
+  }
+}
